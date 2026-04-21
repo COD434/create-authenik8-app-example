@@ -25,6 +25,18 @@ npx create-authenik8-app my-app
 
  ![Demo](https://raw.githubusercontent.com/COD434/create-authenik8-app/main/assets/SVID_20260412_112831_1-ezgif.com-video-to-gif-converter.gif)
 
+---
 
+What this demonstrates
 
+• Clean folder structure
 
+• Secure JWT + refresh token setup
+
+• Identity Engine integration
+
+• RBAC middleware in action
+
+• Production-ready config (PM2, security middleware, etc.)
+
+Feel free to explore the code. This is exactly what you'll get when you run the CLI.
